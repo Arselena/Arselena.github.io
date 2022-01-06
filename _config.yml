@@ -1,8 +1,8 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
+title: Мой блог
+description: мой путь в IT
+author: Arselena
 github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
+about: Я начинающий Android-разработчик
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 
@@ -14,21 +14,21 @@ collections:
     output: true
     permalink: /project/:path/
 
-social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
-    - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
-    - icon: fa-github
-      link: "https://github.com/agusmakmun"
+#social:
+#    - icon: fa-facebook
+#      link: "#"
+#    - icon: fa-twitter
+#      link: "#"
+#    - icon: fa-linkedin
+#      link: "#"
+#    - icon: fa-stack-exchange
+#      link: "#"
+#    - icon: fa-github
+#      link: "https://arselena.github.io/"
 
 share:
   twitter_username: github.io
-  fb_appid: 1749788565247320
+  fb_appid: 
 
 urls:
     - text: About Me
@@ -38,7 +38,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://arselena.github.io/"
 baseurl: ""
 paginate: 20
 per_page: 20
