@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: linux
-title: Linux
+categories: work
+title: Work
 permalink: /category/linux
 ---
